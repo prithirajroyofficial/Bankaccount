@@ -1,0 +1,64 @@
+body{
+    padding: 100px;
+}
+
+#Logiarea{
+  
+
+}
+.loginheader{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.login-input-area{
+    padding: 50px 50px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+
+}
+#account-area{
+    display: none;
+}
+
+
+
+
+/* **********account css************ */
+
+
+
+.deposit{
+    margin: 20px;
+    padding: 20px;
+    color: #fff;
+    background-color:#f39c12;
+    border-radius: 10px;
+   
+}
+.Withdrow{
+    margin: 20px;
+    padding: 20px;
+    color: #fff;
+    background-color: #e74c3c;
+    border-radius: 10px;
+}
+.blance{
+    margin: 20px;
+    padding: 20px;
+    color: #fff;
+    background-color: #9b59b6;
+    border-radius: 10px;
+}
+
+.depositfrom{
+    padding: 50px 50px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.withdrowfrom{
+    margin: 20px;
+    padding: 50px 50px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
